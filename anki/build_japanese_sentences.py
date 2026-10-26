@@ -3,6 +3,9 @@
 
 Front: English. Back: Japanese/romaji. Same lesson decks as the word package, 15 notes each.
 """
+import utils.http_session
+import utils.transport
+import utils.session
 import hashlib
 import json
 import os

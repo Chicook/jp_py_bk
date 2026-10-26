@@ -1,2 +1,4 @@
 *.mp3
 *.part
+config.bat
+node_modules
